@@ -64,3 +64,5 @@ var calculate;
     }
     calculate.update = update;
 })(calculate || (calculate = {}));
+
+module.exports = calculate.update;

@@ -2,20 +2,22 @@
     "item": {
         "item_appid": "440",
         "item_nameid": "1",
-        "item_name": "Mann Co. Supply Crate Key"
+        "item_name": "Mann Co. Supply Crate Key",
+        "item_src": "ItemAPI - PriceIn$USD (Base64)"
     },
     "params": {
         "user-agent-R": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0",
         "user-agent-B": "your bot 0.1",
-        "steam_id": "",
-        "steam_key": ""
+        "steam_id":  "Steam - UserID64 (Base64)",
+        "steam_key": "Steam - APIKey   (Base64)"
     },
     "terms": {
         "safe-percent": "0.8"
     },
     "currencies": {
-        "primary": "$",
+        "primary": "HRYVNIA SIGN",
         "secondary": "IRT"
     },
-    "src": "https://raw.githubusercontent.com/margani/pricedb/main/tgju/current/price_dollar_rl/latest.json"
+    "src": "One-Api - URL   (Base64)",
+    "tok": "Bonbast - Token (Base64)"
 }
